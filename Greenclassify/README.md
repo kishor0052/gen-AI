@@ -138,7 +138,10 @@ Due to GitHub's file size limitation (100MB), the trained model file
 `vegetable_classification.h5` is hosted externally.
 
 🔗 **Download Model Here:**
-[https://drive.google.com/file/d/1RhBmEipvR9Z1Z5zac9OpbuiI8ogxrItb/view?usp=sharing](https://drive.google.com/file/d/1RhBmEipvR9Z1Z5zac9OpbuiI8ogxrItb/view?usp=sharing)
+
+
+https://drive.google.com/drive/folders/1NJvDR5A0eSJjcc1vNf1XZHnooVM4gWLI?usp=sharing
+
 
 After downloading, place the model file in the project **root directory** before running the application.
 
