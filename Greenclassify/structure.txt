@@ -1,0 +1,14 @@
+Greenclassify/
+│
+├── app.py
+├── vegetable_classification.h5
+│
+├── templates/
+│     ├── index.html
+│     ├── prediction.html
+│     └── logout.html
+│
+├── static/
+│     ├── uploads/
+│     ├── css/
+│     └── js/
